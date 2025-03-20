@@ -27,7 +27,7 @@ print(result)
 ## Output:
 
 
-![python exp 1](https://github.com/user-attachments/assets/85c5a0d8-a021-4f81-9918-5039bcada1f3)
+![python exp 1](maths_for_ai_screenshot1.png)
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
